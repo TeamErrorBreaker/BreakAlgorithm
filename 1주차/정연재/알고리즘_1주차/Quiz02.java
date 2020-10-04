@@ -1,4 +1,4 @@
-package algorithmus.quiz.one;
+package 정연재.알고리즘_1주차;
 
 import java.util.Scanner;
 
