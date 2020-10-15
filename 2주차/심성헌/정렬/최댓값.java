@@ -1,4 +1,4 @@
-package 심성헌.배열;
+package 심성헌.정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
