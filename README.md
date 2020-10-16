@@ -11,7 +11,7 @@
 - **[🐰김혜정](https://github.com/hjikm11)**
 - **[🐳심성헌](https://github.com/dip0cean)**
 - **[🐨이주용](https://github.com/juyong2)**
-- **[🐹정연재](https://github.com/duswo5310)**
+- **[🐹정연재](https://github.com/yeoonjae)**
 
 ### 📌 계획
 
