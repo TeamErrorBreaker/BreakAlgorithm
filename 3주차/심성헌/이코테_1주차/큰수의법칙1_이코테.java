@@ -1,11 +1,11 @@
-package 심성헌.알고리즘_3주차;
+package 심성헌.이코테_1주차;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class 큰수의법칙_이코테 {
+public class 큰수의법칙1_이코테 {
 
 	public static void main(String[] args) throws IOException {
 
