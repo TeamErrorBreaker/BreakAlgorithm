@@ -27,7 +27,7 @@ public class 덩치_7568 {
 		for (int i = 0; i < people.length; i++) {
 			int rank = 1;
 			for (int k = 0; k < people.length; k++) {
-				boolean check = (people[i][0] < people[k][0]) && (people[i][1] < people[k][1]);
+				boolean check = (people[i][0] < people[k][0]) && (people[i][1] < people[k][1]) &&(i != k);
 				if (check) {
 					rank++;
 				}
