@@ -7,7 +7,7 @@ public class 덩치문제_7568 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		//완전 탐색 문제 (백준-7568번)
 //		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);//scanner를이용한 문제풀이
 		int cnt = sc.nextInt();
 		
 		int[][] person = new int[cnt][2];//cnt개수만큼 배열 생성 그 안의 배열은 키 몸무게 = 2개
