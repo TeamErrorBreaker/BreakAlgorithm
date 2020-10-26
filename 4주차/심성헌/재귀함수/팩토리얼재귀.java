@@ -1,4 +1,4 @@
-package 심성헌;
+package 심성헌.재귀함수;
 
 public class 팩토리얼재귀 {
 
