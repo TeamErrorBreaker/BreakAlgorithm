@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 public class 수정렬하기_2750 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
 		
 		int input = Integer.parseInt(br.readLine());
 		int list[] = new int[input];
@@ -25,7 +26,8 @@ public class 수정렬하기_2750 {
 			}
 		}
 		for(int i=0;i<list.length;i++) {
-			System.out.println(list[i]);
+			sb.append(list[i]+"\n");
 		}
+		System.out.println(sb);
 	}
 }
