@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class 정렬_17074 {
+public class 정렬_17074_전체탐색 {
 // https://data-bank.tistory.com/4
 // 내 코드는 주어진 배열에서 하나씩 빼면서 정렬인지 아닌지 확인하기 때문에 시간 초과 문제 발생
 // 위의 블로그를 참고해서 경우의 수를 제거하는 방법으로 코드를 짜보자!
