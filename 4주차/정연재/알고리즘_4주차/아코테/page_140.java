@@ -34,8 +34,6 @@ public class page_140 {
 		return false;
 	}
 	
-	
-	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		n = Integer.parseInt(br.readLine());
 		m = Integer.parseInt(br.readLine());
