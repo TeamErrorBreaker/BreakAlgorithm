@@ -1,4 +1,4 @@
-package 심성헌.알고리즘_5주차;
+package 심성헌.알고리즘_5주차.이코테;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
