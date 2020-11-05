@@ -23,7 +23,7 @@ public static void main(String[] args) throws Exception, IOException {
 			stack.push(i);
 			sb.append("+\n");
 			
-			while(stack.peek() == list.get(index)) {
+			while(stack.peek().equals(list.get(index))) {
 				stack.pop();
 				list.remove(index);
 				sb.append("-\n");
