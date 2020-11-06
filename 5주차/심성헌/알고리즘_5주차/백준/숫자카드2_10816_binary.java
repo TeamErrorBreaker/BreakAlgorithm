@@ -40,6 +40,7 @@ public class 숫자카드2_10816_binary {
 		}
 		bw.write(sb.toString());
 		bw.flush();
+		bw.close();
 	}
 
 	public static void card(int[] arr, int start, int end, int target) {

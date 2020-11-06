@@ -1,8 +1,6 @@
 package 심성헌.구현;
 
 import java.io.*;
-import java.util.LinkedList;
-import java.util.Queue;
 
 public class 문자열압축_이코테 {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
