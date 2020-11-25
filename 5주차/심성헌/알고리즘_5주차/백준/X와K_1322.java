@@ -16,18 +16,25 @@ public class X와K_1322 {
 		ArrayList<Long> arr = new ArrayList<Long>();
 
 		while ((long) Math.pow(2, arr.size()) <= k) {
+			System.out.print(arr.size() + " ");
+			System.out.println(save);
 			if ((x | save) != x) {
 				arr.add(save);
 			}
 			save *= 2;
 		}
 
+		for (int i = 0; i < arr.size(); i++) {
+			System.out.print(arr.get(i) + " ");
+		}
+		System.out.println();
 		for (int i = arr.size() - 1; i >= 0; i--) {
 			if (k == 0) {
 				break;
 			} else {
 				if ((long) Math.pow(2, i) <= k) {
 					result += arr.get(i);
+					System.out.println("result = " + result);
 					k -= (long) Math.pow(2, i);
 				}
 			}
