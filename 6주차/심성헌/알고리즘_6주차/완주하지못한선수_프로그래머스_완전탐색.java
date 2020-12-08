@@ -1,6 +1,6 @@
 package 심성헌.알고리즘_6주차;
 
-public class 완주하지못한선수_프로그래머스 {
+public class 완주하지못한선수_프로그래머스_완전탐색 {
 	public static void main(String[] args) {
 		String[] arr = { "mislav", "stanko", "mislav", "ana" };
 		String[] comp = { "stanko", "ana", "mislav" };
